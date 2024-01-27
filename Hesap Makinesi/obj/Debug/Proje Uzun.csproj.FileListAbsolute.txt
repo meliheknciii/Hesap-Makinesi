@@ -1,0 +1,10 @@
+C:\Users\cnR19\C#\Proje Uzun\Proje Uzun\bin\Debug\Proje Uzun.exe.config
+C:\Users\cnR19\C#\Proje Uzun\Proje Uzun\bin\Debug\Proje Uzun.exe
+C:\Users\cnR19\C#\Proje Uzun\Proje Uzun\bin\Debug\Proje Uzun.pdb
+C:\Users\cnR19\C#\Proje Uzun\Proje Uzun\obj\Debug\Proje Uzun.csproj.AssemblyReference.cache
+C:\Users\cnR19\C#\Proje Uzun\Proje Uzun\obj\Debug\Proje_Uzun.Form1.resources
+C:\Users\cnR19\C#\Proje Uzun\Proje Uzun\obj\Debug\Proje_Uzun.Properties.Resources.resources
+C:\Users\cnR19\C#\Proje Uzun\Proje Uzun\obj\Debug\Proje Uzun.csproj.GenerateResource.cache
+C:\Users\cnR19\C#\Proje Uzun\Proje Uzun\obj\Debug\Proje Uzun.csproj.CoreCompileInputs.cache
+C:\Users\cnR19\C#\Proje Uzun\Proje Uzun\obj\Debug\Proje Uzun.exe
+C:\Users\cnR19\C#\Proje Uzun\Proje Uzun\obj\Debug\Proje Uzun.pdb
